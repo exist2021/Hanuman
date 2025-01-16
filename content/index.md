@@ -352,5 +352,4 @@ Ram Lakhan Sita Sahita [[Hriday Basahu]] [[Soor Bhoop]]
 Translation: O Hero, King, reside in my heart along with Rama, Lakshmana, and Sita
 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> This a side project by [Manoj Nayak](https://manojnayak.com), incase you have any feedback or find any errors, do send an email to manoj(at)manojnayak.com 
