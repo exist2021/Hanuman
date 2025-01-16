@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🦸 Hanuman Chalisa Translation in English",
+    pageTitle: "जय श्री राम🚩",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
