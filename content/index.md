@@ -30,7 +30,7 @@ Jai Kapis tihun lok ujagar
 
 Translation: Victory to Kapisa, who illuminates the three worlds
 
-[[Ram doot]] atulit bal dhama
+[[Ram Doot]] atulit bal dhama
 
 Translation: Messenger of Rama, abode of incomparable strength
 
@@ -46,7 +46,7 @@ Kumati nivar sumati Ke sangi
 
 Translation: Remover of bad thoughts, companion of good thoughts
 
-[[Kanchan varan]] viraj subesa
+[[Kanchan Varan]] viraj subesa
 
 Translation: Golden in color, beautifully adorned
 
@@ -85,15 +85,15 @@ Translation: Lover of hearing the stories of the Lord
 
 Translation: He resides in the hearts of Rama, Lakshmana, and Sita
 
-[[Sukshma roop]] dhari Siyahi dikhava
+[[Sukshma Roop]] dhari Siyahi dikhava
 
 Translation: Assuming a tiny form, he showed himself to Sita
 
-[[Vikat roop]] dhari lank jalava
+[[Vikat Roop]] dhari lank jalava
 
 Translation: Assuming a gigantic form, he burned [[Lanka]]
 
-[[Bhim roop]] dhari asur sanhare
+[[Bhim Roop]] dhari asur sanhare
 
 Translation: Assuming a mighty form, he destroyed the demons
 
@@ -117,7 +117,7 @@ Tum mama priya Bharat-hi-sam bhai
 
 Translation: You are dear to me, like my brother Bharat
 
-[[Sahas badan]] tumharo yash gaave
+[[Sahas Badan]] tumharo yash gaave
 
 Translation: Thousands of mouths sing your glory
 
@@ -229,7 +229,7 @@ Translation: Hanuman frees from troubles
 
 Translation: Those who meditate with their mind, actions, and words
 
-Sab par Ram [[tapasvee raja]]
+Sab par Ram [[Tapasvee Raja]]
 
 Translation: Rama is the ascetic king over all
 
@@ -269,7 +269,7 @@ As var deen Janki mata
 
 Translation: This boon was given by Mother Janaki
 
-[[Ram rasayan]] tumhare pasa
+[[Ram Rasayan]] tumhare pasa
 
 Translation: The essence of Rama is with you
 
@@ -317,7 +317,7 @@ Kripa Karahun Gurudev ki nayin
 
 Translation: Bestow your grace like a guru
 
-Jo [[shat bar path]] kare koi
+Jo [[Shat Bar Path]] kare koi
 
 Translation: Whoever recites this a hundred times
 
@@ -333,7 +333,7 @@ Hoye siddhi saakhi [[Gaureesa]]
 
 Translation: Attains success, as witnessed by Gaureesa
 
-[[Tulsidas]] sada [[hari chera]]
+[[TulsiDas]] sada [[Hari Chera]]
 
 Translation: Tulsidas is always a servant of Hari
 
