@@ -4,7 +4,7 @@ title: Hanuman Chalisa With English Translation
 
 ## Opening Doha
 
-[[Shri Guru]] [[Charan Saroj raj]] [[Nija manu]] [[Mukura]] [[sudhari]]
+[[Shri Guru]] [[Charan Saroj raj]] [[Nija manu]] [[Mukura]] [[Sudhari]]
 
 *Translation: After cleaning the mirror of my mind with the dust from the lotus feet of my respected Guru*
 
