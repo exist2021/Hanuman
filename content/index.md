@@ -8,7 +8,7 @@ title: Hanuman Chalisa With English Translation
 
 *Translation: After cleaning the mirror of my mind with the dust from the lotus feet of my respected Guru*
 
-[[Baranau]] [[Raghuvar]] [[Bimal]] [[Jasu]] [[Jo]] [[Dayaku]] [[Phala]] [[Chari]]
+[[Baranau]] [[Raghuvar]] [[Bimal]] [[Jasu]] [[Jo Dayaku]] [[Phala]] [[Chari]]
 
 *Translation: I describe the pure glory of Lord Rama, who bestows the four fruits of life*
 
