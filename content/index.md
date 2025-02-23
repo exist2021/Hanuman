@@ -1,6 +1,12 @@
 ---
 title: Hanuman Chalisa With English Translation
 ---
+-------------------
+
+> This a side project by [Manoj Nayak](https://manojnayak.com), incase you have any feedback or find any errors, do send an email to manoj(at)manojnayak.com 
+> 
+> Would love some support to maintain and improve the this resource. please use this paypal link to send in donations - [Paypal](https://www.paypal.com/ncp/payment/SMSA7846JECZU)
+
 
 ## Opening Doha
 
@@ -351,8 +357,3 @@ Ram Lakhan Sita Sahita [[Hriday Basahu]] [[Soor Bhoop]]
 
 Translation: O Hero, King, reside in my heart along with Rama, Lakshmana, and Sita
 
--------------------
-
-> This a side project by [Manoj Nayak](https://manojnayak.com), incase you have any feedback or find any errors, do send an email to manoj(at)manojnayak.com 
-> 
-> Would love some support to maintain and improve the this resource. please use this paypal link to send in donations - [Paypal](https://www.paypal.com/ncp/payment/SMSA7846JECZU)
