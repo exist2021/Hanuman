@@ -32,7 +32,7 @@ title: Hanuman Chalisa With English Translation
 
 Translation: Victory to Hanuman, ocean of wisdom*
 
-Jai Kapis tihun lok ujagar
+[[Jai]] [[Kapis]] tihun lok ujagar
 
 Translation: Victory to Kapisa, who illuminates the three worlds
 
