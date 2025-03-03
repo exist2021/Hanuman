@@ -36,7 +36,7 @@ Translation: Victory to Hanuman, ocean of wisdom*
 
 Translation: Victory to Kapisa, who illuminates the three worlds
 
-[[Ram Doot]] [[atulit]] bal dhama
+[[Ram Doot]] [[atulit]] [[bal dhama]]
 
 Translation: Messenger of Rama, abode of incomparable strength
 
