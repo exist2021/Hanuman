@@ -40,7 +40,7 @@ Translation: Victory to Kapisa, who illuminates the three worlds
 
 Translation: Messenger of Rama, abode of incomparable strength
 
-Anjani putra Pavan sut nama
+[[Anjani putra]] Pavan sut nama
 
 Translation: Son of Anjani, named the son of Wind
 
