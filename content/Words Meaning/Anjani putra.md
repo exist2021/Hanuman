@@ -1,5 +1,3 @@
-I'd be happy to provide the meaning, etymology, and analysis of "Anjani Putra" from the Hanuman Chalisa in the requested format.
-
 # Anjani Putra
 
 ## Definition
