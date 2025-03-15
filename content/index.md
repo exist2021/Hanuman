@@ -44,7 +44,7 @@ Translation: Messenger of Rama, abode of incomparable strength
 
 Translation: Son of Anjani, named the son of Wind
 
-Mahabir vikram [[Bajrangi]]
+[[Mahabir]] [[vikram]] [[Bajrangi]]
 
 Translation: The great hero, courageous and with a body like a thunderbolt
 
