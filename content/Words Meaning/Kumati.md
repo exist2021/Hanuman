@@ -1,5 +1,3 @@
-# Kumati
-
 ## Definition
 Evil mind, bad intellect, malicious thinking (कुमति in Sanskrit/Hindi)
 
