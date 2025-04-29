@@ -48,7 +48,7 @@ Translation: Son of Anjani, named the son of Wind
 
 Translation: The great hero, courageous and with a body like a thunderbolt
 
-Kumati nivar sumati Ke sangi
+[[Kumati]] nivar sumati Ke sangi
 
 Translation: Remover of bad thoughts, companion of good thoughts
 
